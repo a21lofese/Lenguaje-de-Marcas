@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>
+            Animes
+        </title>
+        <description>Canal de Anime</description>
+        <item>
+            <title>¡Estos son los ganadores de los Anime Awards 2022!</title>
+            <link>https://www.crunchyroll.com/es-es/anime-news/2022/02/09/estos-son-los-ganadores-de-los-anime-awards-2022</link>
+            <description>¡Un año más que se acaban los Anime Awards! Tras recoger millones y millones de votos de fans como tú, procedentes de todas partes del planeta, la entrega de este año de estos premios que honran algunas de las mejores cosas que nos dejaba el anime en el 2021, llega a su fin.</description>
+            <image>
+                <url>https://img1.ak.crunchyroll.com/i/spire3/ffe7e78c1d93c91d30ba3b443ebf9f371644418577_main.png</url>
+                <title>Anime Awards</title>
+                <link>https://www.crunchyroll.com/es-es/anime-news/2022/02/09/estos-son-los-ganadores-de-los-anime-awards-2022</link>
+            </image>
+        </item>
+        <item>
+            <title>El anime Kimetsu no Yaiba contará con una tercera temporada</title>
+            <link>https://somoskudasai.com/noticias/anime/el-anime-kimetsu-no-yaiba-contara-con-una-tercera-temporada/</link>
+            <description>A través del sitio web oficial para la adaptación al anime del manga escrito e ilustrado por Koyoharu Gotouge, Kimetsu no Yaiba, se anunció que la serie contará con una tercera temporada, misma que se titulará Kimetsu no Yaiba: Katanakaji Sato-hen (Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc). </description>
+            <image>
+                <url>https://somoskudasai.com/noticias/anime/el-anime-kimetsu-no-yaiba-contara-con-una-tercera-temporada/</url>
+                <title>Kimetsu no Yaiba</title>
+                <link>https://somoskudasai.com/noticias/anime/el-anime-kimetsu-no-yaiba-contara-con-una-tercera-temporada/</link>
+            </image>
+        </item>
+    </channel>
+</rss>

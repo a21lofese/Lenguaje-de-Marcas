@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>
+            Tecnología
+        </title>
+        <description>Canal de Tecnología</description>
+        <item>
+            <title>30 noticias de tecnología para comenzar la mañana informado de lo último</title>
+            <link>https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1013799</link>
+            <description>Te damos la bienvenida al resumen de actualidad de la mañana en ComputerHoy.com. Las noticias más importantes del mundo de la tecnología que han ocurrido en las últimas 24 horas, en titulares.</description>
+            <image>
+                <url>https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2022/02/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2618913.jpg?itok=PXysDWfe</url>
+                <title>Técnología</title>
+                <link>https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1013799</link>
+            </image>
+        </item>
+        <item>
+            <title>La UPC alerta de que reducir la Tecnología en la ESO puede agravar la brecha de género en las carreras de ciencias</title>
+            <link>https://www.elperiodico.com/es/sociedad/20220215/upc-alerta-tecnologia-curriculum-eso-brecha-genero-stem-13238147</link>
+            <description>La asignatura pasa de tener 210 horas a tener 105 de 1º a 3º y desaparece como optativa de 4º</description>
+            <image>
+                <url>https://estaticos-cdn.elperiodico.com/clip/92ce3451-42d1-4973-98b1-6d0d0b5413c3_alta-libre-aspect-ratio_default_0.jpg</url>
+                <title>UPC</title>
+                <link>https://www.elperiodico.com/es/sociedad/20220215/upc-alerta-tecnologia-curriculum-eso-brecha-genero-stem-13238147</link>
+            </image>
+        </item>
+    </channel>
+</rss>
