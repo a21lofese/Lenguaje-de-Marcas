@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>
+            Videojuegos
+        </title>
+        <link>https://a21lofese.github.io/Lenguaje-de-Marcas/RSS_slf/index_slf.html</link>
+        <description>Canal de Videojuegos</description>
+        <language>es-es</language>
+        <lastBuildDate>Martes 22, Febrero 2022</lastBuildDate>
+        <managingEditor>a21lofese@iesgrancapitan.org</managingEditor>
+        <skipDays>
+            <day>Sábado</day>
+            <day>Domingo</day>
+        </skipDays>
+        <skipHours>
+            <hour>0</hour>
+            <hour>1</hour>
+            <hour>2</hour>
+            <hour>3</hour>
+            <hour>4</hour>
+            <hour>5</hour>
+        </skipHours>
+        <item>
+            <title>Nintendo Switch supera los 375 millones de juegos vendidos, destronando las ventas de Wii y DS</title>
+            <link>https://www.3djuegos.com/noticias-ver/220268/nintendo-switch-supera-los-375-millones-de-juegos-vendidos/</link>
+            <description>La consola híbrida es ahora la que más juegos ha vendido de todas las lanzadas por la compañía desde sus inicios.</description>
+            <image>
+                <url>https://i.3djuegos.com/juegos/12232/nintendo_nx/fotos/noticias/nintendo_nx-5612832.webp</url>
+                <title>Nintendo Switch</title>
+                <link>https://www.3djuegos.com/noticias-ver/220268/nintendo-switch-supera-los-375-millones-de-juegos-vendidos/</link>
+            </image>
+            <author>a21lofese@iesgrancapitan.org</author>
+            <pubDate>Martes 22, Febrero 2022</pubDate>
+        </item>
+        <item>
+            <title>La última actualización gratis de No Man's Sky hace más desafiante el videojuego: así es Sentinel</title>
+            <link>https://www.3djuegos.com/noticias-ver/220256/la-ultima-actualizacion-gratis-de-no-mans-sky-hace-mas/</link>
+            <description>Hello Games dedica la descarga en mejorar la experiencia de combate, tanto en contenidos como a nivel técnico.</description>
+            <image>
+                <url>https://i.3djuegos.com/juegos/10537/no_mans_sky/fotos/noticias/no_mans_sky-5612369.webp</url>
+                <title>No Man's Sky</title>
+                <link>https://www.3djuegos.com/noticias-ver/220256/la-ultima-actualizacion-gratis-de-no-mans-sky-hace-mas/</link>
+            </image>
+            <author>a21lofese@iesgrancapitan.org</author>
+            <pubDate>Martes 22, Febrero 2022</pubDate>
+        </item>
+        <item>
+            <title>Video Game History Foundation acusa a Nintendo de destruir la historia de los videojuegos – Nerd4.life</title>
+            <link>https://www.onunoticias.mx/video-game-history-foundation-acusa-a-nintendo-de-destruir-la-historia-de-los-videojuegos-nerd4-life/</link>
+            <description>La Video Game History Foundation no dedicó palabras amables nintendoacusándola, destruir activamente Por ahí historia de los videojuegos. ¿Razón? Anuncio del cierre de las eShops de Wii U y 3DS en marzo de 2023, lo que provocará la desaparición de solo mil juegos digitales, algunos exclusivos de las dos plataformas, que no se podrán jugar legalmente en el futuro. En todo caso.</description>
+            <image>
+                <url>https://multiplayer.net-cdn.it/thumbs/images/2022/02/18/maxresdefault_jpg_750x400_crop_q85.jpg</url>
+                <title>Nintendo</title>
+                <link>https://www.onunoticias.mx/video-game-history-foundation-acusa-a-nintendo-de-destruir-la-historia-de-los-videojuegos-nerd4-life/</link>
+            </image>
+            <author>a21lofese@iesgrancapitan.org</author>
+            <pubDate>Martes 22, Febrero 2022</pubDate>
+        </item>
+        <item>
+            <title>Ve preparando los puños porque Capcom acaba de anunciar Street Fighter 6</title>
+            <link>https://www.geektopia.es/es/videogames/2022/02/21/noticias/ve-preparando-los-punos-porque-capcom-acaba-de-anunciar-street-fighter-6.html</link>
+            <description>Que mejor fecha para anunciar una secuela que cuando se cumplen seis años del lanzamiento de su precuela. Street Fighter V se lanzó en febrero de 2016 casi cumpliendo su promesa de no lanzar nuevas versiones como era mala costumbre por parte de Capcom, pero sí cumplió el hacer a todos los personajes desbloqueables jugando mucho.</description>
+            <image>
+                <url>https://static-geektopia.com/storage/t/p/125/125435/816x381/street-fighter-6.webp</url>
+                <title>Street fighter</title>
+                <link>https://www.geektopia.es/es/videogames/2022/02/21/noticias/ve-preparando-los-punos-porque-capcom-acaba-de-anunciar-street-fighter-6.html</link>
+            </image>
+            <author>a21lofese@iesgrancapitan.org</author>
+            <pubDate>Martes 22, Febrero 2022</pubDate>
+        </item>
+    </channel>
+</rss>

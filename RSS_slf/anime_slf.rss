@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>
+            Animes
+        </title>
+        <link>https://a21lofese.github.io/Lenguaje-de-Marcas/RSS_slf/index_slf.html</link>
+        <description>Canal de Anime</description>
+        <language>es-es</language>
+        <lastBuildDate>Martes 22, Febrero 2022</lastBuildDate>
+        <managingEditor>a21lofese@iesgrancapitan.org</managingEditor>
+        <skipDays>
+            <day>Sábado</day>
+            <day>Domingo</day>
+        </skipDays>
+        <skipHours>
+            <hour>0</hour>
+            <hour>1</hour>
+            <hour>2</hour>
+            <hour>3</hour>
+            <hour>4</hour>
+            <hour>5</hour>
+        </skipHours>
+        <item>
+            <title>¡Estos son los ganadores de los Anime Awards 2022!</title>
+            <link>https://www.crunchyroll.com/es-es/anime-news/2022/02/09/estos-son-los-ganadores-de-los-anime-awards-2022</link>
+            <description>¡Un año más que se acaban los Anime Awards! Tras recoger millones y millones de votos de fans como tú, procedentes de todas partes del planeta, la entrega de este año de estos premios que honran algunas de las mejores cosas que nos dejaba el anime en el 2021, llega a su fin.</description>
+            <image>
+                <url>https://img1.ak.crunchyroll.com/i/spire3/ffe7e78c1d93c91d30ba3b443ebf9f371644418577_main.png</url>
+                <title>Anime Awards</title>
+                <link>https://www.crunchyroll.com/es-es/anime-news/2022/02/09/estos-son-los-ganadores-de-los-anime-awards-2022</link>
+            </image>
+            <author>a21lofese@iesgrancapitan.org</author>
+            <pubDate>Martes 22, Febrero 2022</pubDate>
+        </item>
+        <item>
+            <title>El anime Kimetsu no Yaiba contará con una tercera temporada</title>
+            <link>https://somoskudasai.com/noticias/anime/el-anime-kimetsu-no-yaiba-contara-con-una-tercera-temporada/</link>
+            <description>A través del sitio web oficial para la adaptación al anime del manga escrito e ilustrado por Koyoharu Gotouge, Kimetsu no Yaiba, se anunció que la serie contará con una tercera temporada, misma que se titulará Kimetsu no Yaiba: Katanakaji Sato-hen (Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc). </description>
+            <image>
+                <url>https://somoskudasai.com/noticias/anime/el-anime-kimetsu-no-yaiba-contara-con-una-tercera-temporada/</url>
+                <title>Kimetsu no Yaiba</title>
+                <link>https://somoskudasai.com/noticias/anime/el-anime-kimetsu-no-yaiba-contara-con-una-tercera-temporada/</link>
+            </image>
+            <author>a21lofese@iesgrancapitan.org</author>
+            <pubDate>Martes 22, Febrero 2022</pubDate>
+        </item>
+        <item>
+            <title>Shingeki no Kyojin: Así sería Eren en One Piece, Naruto y muchos otros animes</title>
+            <link>https://areajugones.sport.es/anime/shingeki-no-kyojin-asi-seria-eren-en-one-piece-naruto-y-muchos-otros-animes/</link>
+            <description>"Shingeki no Kyojin" se ha convertido en un fenómeno de escala mundial en el que la mayoría de animes solo pueden llegar a soñar, y gran parte de ello se debe a la radical evolución de Eren, uno de los prtoagonistas más conflictivos del sector hasta la fecha. La realidad es que Hajime Isayama no se andó con chiquitas a la hora de diseñar a un personaje como este y, por lo tanto, no sorprende que su fama le preceda de muchas formas diferentes.</description>
+            <image>
+                <url>https://areajugones.sport.es/wp-content/uploads/2022/02/shingeki-no-kyojin-eeren-estilos-de-anime-1080x609.jpg.webp</url>
+                <title>Eren</title>
+                <link>https://areajugones.sport.es/anime/shingeki-no-kyojin-asi-seria-eren-en-one-piece-naruto-y-muchos-otros-animes/</link>
+            </image>
+            <author>a21lofese@iesgrancapitan.org</author>
+            <pubDate>Martes 22, Febrero 2022</pubDate>
+        </item>
+        <item>
+            <title>Estos son los mejores endings del Invierno-2022 según Anime!Anime!</title>
+            <link>https://somoskudasai.com/noticias/cultura-otaku/estos-son-los-mejores-endings-del-invierno-2022-segun-animeanime/</link>
+            <description>El portal japonés Anime!Anime! condujo una encuesta entre sus lectores por suscripción con la pregunta «¿Cuál es tu tema de cierre favorito entre las series de anime estrenadas en la temporada de Invierno-2022 (Enero-Marzo)?», entre el 31 de enero y el 7 de febrero de este año, mostrando los resultados en un artículo reciente.</description>
+            <image>
+                <url>https://somoskudasai.com/wp-content/uploads/2022/02/portada_sono-bisque-doll-43.jpg</url>
+                <title>Sono bisque doll</title>
+                <link>https://somoskudasai.com/noticias/cultura-otaku/estos-son-los-mejores-endings-del-invierno-2022-segun-animeanime/</link>
+            </image>
+            <author>a21lofese@iesgrancapitan.org</author>
+            <pubDate>Martes 22, Febrero 2022</pubDate>
+        </item>
+    </channel>
+</rss>
