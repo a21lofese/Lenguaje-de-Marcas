@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+    <title>
+            Tecnología
+        </title>
+    <link>https://a21lofese.github.io/Lenguaje-de-Marcas/RSS_slf/index_slf.html</link>
+    <summary>Canal de Tecnología</summary>
+    <language>es-es</language>
+    <updated>Martes 22, Febrero 2022</updated>
+    <author>a21lofese@iesgrancapitan.org</author>
+    <skipDays>
+        <day>Sábado</day>
+        <day>Domingo</day>
+    </skipDays>
+    <skipHours>
+        <hour>0</hour>
+        <hour>1</hour>
+        <hour>2</hour>
+        <hour>3</hour>
+        <hour>4</hour>
+        <hour>5</hour>
+    </skipHours>
+    <entry>
+        <title>30 noticias de tecnología para comenzar la mañana informado de lo último</title>
+        <link>https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1013799</link>
+        <summary>Te damos la bienvenida al resumen de actualidad de la mañana en ComputerHoy.com. Las noticias más importantes del mundo de la tecnología que han ocurrido en las últimas 24 horas, en titulares.</summary>
+        <logo>
+            <url>https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/logo/2022/02/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2618913.jpg?itok=PXysDWfe</url>
+            <title>Técnología</title>
+            <link>https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1013799</link>
+        </logo>
+        <author>a21lofese@iesgrancapitan.org</author>
+        <published>Martes 22, Febrero 2022</published>
+    </entry>
+    <entry>
+        <title>La UPC alerta de que reducir la Tecnología en la ESO puede agravar la brecha de género en las carreras de ciencias</title>
+        <link>https://www.elperiodico.com/es/sociedad/20220215/upc-alerta-tecnologia-curriculum-eso-brecha-genero-stem-13238147</link>
+        <summary>La asignatura pasa de tener 210 horas a tener 105 de 1º a 3º y desaparece como optativa de 4º</summary>
+        <logo>
+            <url>https://estaticos-cdn.elperiodico.com/clip/92ce3451-42d1-4973-98b1-6d0d0b5413c3_alta-libre-aspect-ratio_default_0.jpg</url>
+            <title>UPC</title>
+            <link>https://www.elperiodico.com/es/sociedad/20220215/upc-alerta-tecnologia-curriculum-eso-brecha-genero-stem-13238147</link>
+        </logo>
+        <author>a21lofese@iesgrancapitan.org</author>
+        <published>Martes 22, Febrero 2022</published>
+    </entry>
+    <entry>
+        <title>Cómo saber si ha llegado el momento de cambiar tu router WiFi</title>
+        <link>https://computerhoy.com/noticias/tecnologia/como-saber-ha-llegado-momento-cambiar-router-wifi-1016031</link>
+        <summary>Si estás dudando acerca de si deberías cambiar de router, te damos una serie de consejos e indicaciones para que compruebes por ti mismo si ya le ha llegado la hora.</summary>
+        <logo>
+            <url>https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/logo/2022/02/router-wifi-fibra-optica-2610861.jpg?itok=qMBUOBq_</url>
+            <title>cambiar wifi</title>
+            <link>https://computerhoy.com/noticias/tecnologia/como-saber-ha-llegado-momento-cambiar-router-wifi-1016031</link>
+        </logo>
+        <author>a21lofese@iesgrancapitan.org</author>
+        <published>Martes 22, Febrero 2022</published>
+    </entry>
+    <entry>
+        <title>La inteligencia artificial como principal aliada en la conservación de la vida animal</title>
+        <link>https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-como-principal-aliada-conservacion-vida-animal-1015927</link>
+        <summary>La inteligencia artificial ha sido identificada como una de las tres principales tecnologías emergentes en materia de conservación, ayudando a proteger especies en todo el mundo. Te contamos algunos proyectos en marcha con IA, a continuación.</summary>
+        <logo>
+            <url>https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/logo/2022/02/vida-animal-2622799.jpg?itok=ZAEOlLAp</url>
+            <title>inteligencia artificial</title>
+            <link>https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-como-principal-aliada-conservacion-vida-animal-1015927</link>
+        </logo>
+        <author>a21lofese@iesgrancapitan.org</author>
+        <published>Martes 22, Febrero 2022</published>
+    </entry>
+</feed>
